@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Coding test
-slug: codingtest
-category: pypy
+title: Basic
+slug: leaf2st
+category: python
 menu: false
-order: 2
+order: 1
 ---
