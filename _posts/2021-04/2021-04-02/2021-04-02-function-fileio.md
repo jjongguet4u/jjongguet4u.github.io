@@ -2,7 +2,7 @@
 layout: post
 title:  "인프런 리프2기 8~9.Function && File IO"
 subtitle:   "인프런 리프2기"
-categories: out
+categories: python
 tags: leaf2st
 comments: true
 ---
