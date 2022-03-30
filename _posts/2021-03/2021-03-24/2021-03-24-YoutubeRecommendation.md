@@ -2,10 +2,11 @@
 layout: post
 title:  "Recommending What Video to Watch Next : A Multitask Ranking System 리뷰"
 subtitle:   "추천시스템 스터디1팀"
-categories: recsys
+categories: mldl
 tags: recommender
 comment: true
 ---
+
 
 
 학회 : Recsys 2019
