@@ -1,7 +1,7 @@
 ---
 layout: list
-title: RecommenderSystem
-slug: recsys
+title: MLDL
+slug: mldl
 menu: true
 submenu: true
 order: 1
