@@ -59,20 +59,19 @@ comments: true
 > 해당방식은 Docker Desktop설치 이후, 해당 내용을 WSL2에 연결해서 사용하는 방식입니다.
 백그라운드 램이슈가 있는것같으니 꼭 확인해야합니다.
 > 
+
 1. 도커 데스크탑 다운로드
     
     [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop) 
     
 2. 추가세팅
 
-Settings → Resources → WSL INTEGRATION
-
-Enable Integraion with my default WSL distro (체크하기)
-
-Ubuntu-18.04 (체크하기)
+    Settings → Resources → WSL INTEGRATION
+    Enable Integraion with my default WSL distro (체크하기)
+    Ubuntu-18.04 (체크하기)
+       
 3. terminal로 wsl2로 ubuntu 들어가서
     
     `docker version` ( 제대로 나오는지 확인)
-    
     `kubectl version` ( 클라이언트 버전만 나오는지 확인. 아직 커넥션 안되어있음)
     
